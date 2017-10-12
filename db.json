@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "data": [
+    "Longitude": 76.1360933333333,
+		"Latitude": 24.02018,
+		"DestinationLatitude": 22.7195686999,
+		"DestinationLongitude": 75.8577258000,
+		"Location": "5.3KM FROM SHAMPUR,SHAJAPUR,MADHYA PRADESH,INDIA <br/>(Vehicle No :MP-09 GG-1445) <br/>(Speed :42)",
+		"Speed": "42",
+		"VehicleNo": "MP-09 GG-1445",
+		"FleetStatus": "NotStarted",
+		"ColorCode": "Grey",
+		"Distance_Destination": 147.29345789808744
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
